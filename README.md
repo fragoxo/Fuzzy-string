@@ -15,6 +15,7 @@ pip install fuzzywuzzy
 ```bash
 python main.py
 ```
+enter the keyword
 
 The result is a json response.json
 
