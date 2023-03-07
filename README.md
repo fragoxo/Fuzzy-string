@@ -4,7 +4,7 @@ Libreria encargada de hacer match difuso con algunas palabras claves.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Fuzzy-string.
 
 ```bash
 pip install fuzzywuzzy
